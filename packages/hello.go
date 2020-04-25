@@ -1,5 +1,5 @@
-package hello
+package Hello
 
-func hello() {
+func Hello() {
     fmt.Println("Hello, World!")
 }

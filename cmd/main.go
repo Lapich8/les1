@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
+import "github.com/Lapich8/les1/packages/hello"
 
 func main() {
-	hello()
+	hello.Print()
+	fmt.Printlm()
 }
