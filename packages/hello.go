@@ -1,10 +1,4 @@
-package main
-
-import "fmt"
-
-func main() {
-    hello()
-}
+package hello
 
 func hello() {
     fmt.Println("Hello, World!")
